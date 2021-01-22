@@ -1,3 +1,6 @@
+# Link to live demo
+https://friendly-kilby-a532c9.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
